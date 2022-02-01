@@ -1,4 +1,4 @@
-//In this we used function inside a function, we can return a function or rather use it normally.
+// !In this we used function inside a function, we can return a function or rather use it normally.
 fun main() {
     println("Hello, world!\n")
     birthdayMessage()
