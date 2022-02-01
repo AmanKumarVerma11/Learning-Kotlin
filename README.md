@@ -31,11 +31,11 @@ https://developer.android.com/training/kotlinplayground
    
 # Here is the official documentation for the Kotlin concepts you learned in this codelab.
     
-    > Defining variables
+   > Defining variables
       https://kotlinlang.org/docs/basic-syntax.html#defining-variables
-    > Comments
+   > Comments
       https://kotlinlang.org/docs/basic-syntax.html#comments
-    > Defining functions
+   > Defining functions
       https://kotlinlang.org/docs/basic-syntax.html#defining-functions
-    > repeat statement
+   > repeat statement
       https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/repeat.html
