@@ -1,4 +1,5 @@
-#SUMMARY
+#SUMMARY:
+
     => Use ${} to surround variables and calculations in the text of print statements. For example: ${age} where age is a variable.
     => Create a variable using the val keyword and a name. Once set, this value cannot be changed. Assign a value to a variable using the equal sign. Examples of values are text and numbers.
     => A String is text surrounded by quotes, such as "Hello".
